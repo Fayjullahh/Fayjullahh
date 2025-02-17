@@ -8,10 +8,10 @@
 </div>
 
 ###
-<div>
+
   <img align="right" height="150"     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF6ZjN4NnZuNHRjcWQ2YjljMnhiYm8wZmRwdGNiZWlvcHRkZmJiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3ZWtxcXRzcDBtaW43cGFpMnpzOGxucDQwMHloM2VubjA0MXg1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif"  />
-</div>
+
+
 
 
 ###
@@ -48,7 +48,7 @@
 <br clear="both">
 
 
-
+<h2>My Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fayjullahh/Fayjullahh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fayjullahh/Fayjullahh/output/github-snake.svg" />
